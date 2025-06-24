@@ -1,2 +1,2 @@
 **Please Note:**<br>
-This repository is soleley for experimental purposes.
+This repository is solely for experimental purposes.
